@@ -2,20 +2,5 @@
     "name": "Trump at capitol",
     "symbol": "TECT",
     "description": "Trump at capitol",
-    "image": "https://raw.githubusercontent.com/trumpatcapitolcoin/crypto/refs/heads/main/logo.png",
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Rare"
-        }
-    ],
-    "properties": {
-        "files": [
-            {
-                "uri": "https://raw.githubusercontent.com/trumpatcapitolcoin/crypto/refs/heads/main/logo.png",
-                "type": "image/png"
-            }
-        ],
-        "category": "image"
-    }
+    "image": "https://raw.githubusercontent.com/trumpatcapitolcoin/crypto/refs/heads/main/logo.png"
 }
